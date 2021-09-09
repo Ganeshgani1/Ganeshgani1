@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ganeshgani1
+- 👋 Hi, I’m @Ganesh Chalichimala
 - 👀 I’m interested in Software developer
 - 🌱 I’m currently learning Java with spring
 - 💞️ I’m looking to collaborate on ...
